@@ -20,5 +20,5 @@ let imageProxy = (function () {
     }
 })();
 
-imageProxy("1R3A2927.JPG");
+imageProxy("bigImg.jpg");
 
